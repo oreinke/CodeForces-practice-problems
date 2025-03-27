@@ -9,6 +9,8 @@
         "sstream": "cpp",
         "xstring": "cpp",
         "string": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "xiosbase": "cpp",
+        "map": "cpp"
     }
 }
