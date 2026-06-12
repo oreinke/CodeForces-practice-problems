@@ -7,5 +7,9 @@ typedef vector<int> vi;
 typedef vector<vector<int>> vii;
 
 int main() {
-    
+    int t = 1;
+    cin >> t;
+    while (t--) {
+        
+    }
 }
